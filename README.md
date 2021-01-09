@@ -19,7 +19,7 @@
 
 A developer's portfolio website that features...well, myself! It has a well-documented list of my top projects I've done so far (**_which I will be updating regularly_**), information of myself such as the current technologies I'm working with, non-tech stuff like my 'downtime' activities, etc.
 
-Feel free to check out my live website [here](https://salty-hamlet-84531.herokuapp.com/ "< { BernCodes } />")! 
+Feel free to check out my live website [here](https://berncodes.dev "< { BernCodes } />")! 
 
 Warning: **Liberal use of emojis are scattered across the website. If you are not an emoji person, you've been warned and enter the website at your own peril** 😇
 
