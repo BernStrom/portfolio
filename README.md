@@ -21,7 +21,7 @@ A developer's portfolio website that features...well, myself! It has a well-docu
 
 Feel free to check out my live website [here](https://berncodes.dev "< { BernCodes } />")! 
 
-Warning: **Liberal use of emojis are scattered across the website. If you are not an emoji person, you've been warned and enter the website at your own peril** 😇
+_Warning_: **_Liberal use of emojis are scattered across the website. If you are not an emoji person, you've been warned and enter the website at your own peril_** 😇
 
 <br />
 
